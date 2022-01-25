@@ -7,7 +7,7 @@
     </meta>
 
     <detectors>
-        <extension priority="1.0">conf,cnf</extension>
+        <extension priority="1.0">conf,cnf,htaccess</extension>
     </detectors>
 
     <comments>
